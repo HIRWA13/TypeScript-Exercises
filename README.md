@@ -11,4 +11,4 @@ this reopsitory contains a set of exercises That I attempted to gain more unders
 ## Exercises:
 the exercises are structured in a way that each exercise is a Typescript file that contains the exercise description and a solution below it.
 
--[x] [interfaces](./interfaces.ts)
+-[x] [interfaces](./1.interface.ts)
